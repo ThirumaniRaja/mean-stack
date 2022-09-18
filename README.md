@@ -1,2 +1,2 @@
 # mean-stack
-Angular + Node + MangoDb
+Angular + Node + MongoDb
